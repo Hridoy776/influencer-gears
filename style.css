@@ -26,7 +26,8 @@ h1 {
   background-color: #e02c6d;
   color: white;
   border: none;
-  margin: 16px 0;
+  margin: 20px 0;
+  border: 1px solid white;
 }
 .btn:hover {
   color: #e02c6d;
@@ -77,9 +78,10 @@ header {
 .logos {
   display: flex;
   justify-content: center;
+  margin-top: 20px;
 }
 .logo {
-  margin: 10px 0;
+  margin: 20px 0;
   border-top: 2px solid gray;
   border-bottom: 2px solid gray;
 }
